@@ -87,6 +87,8 @@ include::participanting-organizations/MetOffice.adoc[]
 
 include::participanting-organizations/NASA.adoc[]
 
+include::participanting-organizations/NGAMobileApps.adoc[]
+
 include::participanting-organizations/NationalLandSurveyofFinland.adoc[]
 
 include::participanting-organizations/NaturalResourcesCanada.adoc[]
